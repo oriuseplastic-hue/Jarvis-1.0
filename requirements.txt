@@ -1,0 +1,16 @@
+pyttsx3
+wikipedia
+textblob
+webbrowser
+pyautogui
+psutil
+eel
+urllib
+speech_recognition
+datetime
+time
+requests
+pytube
+mtranslate
+google
+openai
