@@ -8,8 +8,7 @@ Short summary
 - What it is: A brief one-line description that includes target keywords people might search for (e.g., "assistant, CLI, automation").
 - Who it's for: People who want a small local assistant demo or integration example.
 
-Demo
-Add a GIF or screenshot here (replace the placeholder below).
+Demo Here.
 
 ![demo-placeholder](assets/demo-screenshot.png)
 
