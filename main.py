@@ -333,7 +333,7 @@ speak("Now let me introduce myself ,Iam Jarvis your personal AI Assistant.")
 wishMe()
 #eel.init('www')
 w,h=pyautogui.size()
-os.system('start msedge.exe --app="http://127.0.0.1:5500/www/index.html"')
+#os.system('start msedge.exe --app="http://127.0.0.1:5500/www/index.html"') only this code if you need to attach the index.html by starting the live server.
 #eel.start('index.html', size=(w, h), mode='edge')
 #pyautogui.press('f11')
 while True:
@@ -499,4 +499,5 @@ while True:
     except sp_rg.RequestError:
         print("Speech recognition service is unavailable")
     except Exception as e:
+
         print(f"Error: {e}")
