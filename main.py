@@ -195,7 +195,6 @@ sites_list = ['youtube.com', '17,773,093', '100', '2', 'www.google.com', '12,121
               '178,866', '92', '494', 'alexa.com', '285,827', '92', '495', 'thoughtco.com', '295,267', '92', '496',
               'billboard.com', '165,710', '92', '497', 'ucoz.ru', '184,459', '92', '498', 'mhlw.go.jp', '138,334', '92',
               '499', 'enable-javascript.com', '915,622', '92', '500', 'newscientist.com']
-sites_list=["haha it was a prank"]
 import pyttsx3
 import wikipedia
 #import detectmessage
@@ -501,4 +500,5 @@ while True:
     except Exception as e:
 
         print(f"Error: {e}")
+
 
