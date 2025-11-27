@@ -9,23 +9,23 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/versio
 1. **Fork** the repository.  
 2. **Clone** your fork:  
    
-```bash>```
-```   git clone https://github.com/YOUR_USERNAME/Jarvis-1.0.git
-```   cd Jarvis-1.0
+bash
+   ```git clone https://github.com/YOUR_USERNAME/Jarvis-1.0.git```
+   ```cd Jarvis-1.0```
    
 
 3. *Install* dependencies (adjust for your stack):
 
 
 bash
-   npm install   # or pip install -r requirements.txt, etc.
+   ```pip install -r requirements.txt```
    
 
 4. *Create* a branch for your work:
 
 
-``bash>``
-```   git checkout -b feature/your-feature```
+bash
+   ```git checkout -b feature/your-feature```
    
 
 
