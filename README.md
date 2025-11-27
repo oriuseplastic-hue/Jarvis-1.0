@@ -7,4 +7,5 @@ Open Terminal and write:
 To run this Program Open Terminal Again and write:
 ```python main.py```
 
-The api keys section which is empty is not used but when new upgrade comes we will use the api keys.
+The api keys section which is empty is not used but when new upgrade comes we will use the api keys and we will also create a engine folder which is the backend and then we will setup the engine folder.
+We will also make www folder which is the frontend.
