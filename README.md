@@ -14,10 +14,11 @@ Demo Here.
 
 Features
 - It can Search your command in Youtube or Wikipedia.
-- It can auto type anything.
+- It can Auto type anything.
 - It can translate any languages to English[EN-Us].
 - It can press F11[Key].
 - It can email your Friend.
+- It can Auto Correct your said spelling
 
 Quickstart (generic)
 1. Clone the repo:
