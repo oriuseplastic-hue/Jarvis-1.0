@@ -2,7 +2,7 @@
 It has amazing features it can open apps, it can search anything in youtube or wikipedia.
 
 Open Terminal and write:
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 To run this Program Open Terminal Again and write:
 ```python main.py```
