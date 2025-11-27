@@ -378,7 +378,7 @@ while True:
 
                     print(translated)
                 except Exception as e:
-                    speak("Sorry, I couldn't translate that.")
+                    speak("Sorry, I couldn't translate that ,Sir.")
                     print(f"Translation error: {e}")
 
             elif "search wikipedia" in command:
@@ -501,3 +501,4 @@ while True:
     except Exception as e:
 
         print(f"Error: {e}")
+
