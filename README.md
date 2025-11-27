@@ -12,9 +12,9 @@ We will also make www folder which is the frontend.
 
 #Features:
 
-Open apps
-Email your Friend
-It can Search your command in Youtube or Wikipedia
-It can auto type anything
-It can translate any languages to English[EN-Us]
-It can press F11[Key]
+Open apps.
+Email your Friend.
+It can Search your command in Youtube or Wikipedia.
+It can auto type anything.
+It can translate any languages to English[EN-Us].
+It can press F11[Key].
