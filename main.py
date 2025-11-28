@@ -208,6 +208,7 @@ import eel
 import speech_recognition as sp_rg
 from datetime import datetime
 import time
+import smtplib
 import requests
 from pytube import YouTube
 from mtranslate import translate
@@ -500,5 +501,6 @@ while True:
     except Exception as e:
 
         print(f"Error: {e}")
+
 
 
