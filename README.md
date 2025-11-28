@@ -21,6 +21,8 @@ Features
 - It can Auto Correct your said spelling.
 - It can open Softwares.
 - It can Shutdown,SleepMode and Restart your Computer.
+- It can tell the time.
+- It can tell the weather.
 
 Quickstart (generic)
 1. Clone the repo:
@@ -41,6 +43,8 @@ We welcome contributions. See CONTRIBUTING.md for details.
 Community
 - Issues: Use the Issues tab to report bugs or request features.
 - Pull requests: Open a PR from a branch that describes your changes.
+
+In the code you noticed something the api keys were not used exclude the waether api key. The api keys are for the next project[Jarvis-1.1].
 
 License
 MIT © 2025 oriuseplastic-hue
