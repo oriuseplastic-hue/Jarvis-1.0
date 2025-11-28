@@ -200,6 +200,8 @@ import wikipedia
 #import detectmessage
 from textblob import TextBlob
 import webbrowser
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
 import pyautogui
 import psutil
 import os
@@ -501,6 +503,7 @@ while True:
     except Exception as e:
 
         print(f"Error: {e}")
+
 
 
 
