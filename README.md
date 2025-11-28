@@ -18,7 +18,9 @@ Features
 - It can translate any languages to English[EN-Us].
 - It can press F11[Key].
 - It can email your Friend.
-- It can Auto Correct your said spelling
+- It can Auto Correct your said spelling.
+- It can open Softwares.
+- It can Shutdown,SleepMode and Restart your Computer.
 
 Quickstart (generic)
 1. Clone the repo:
