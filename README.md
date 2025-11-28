@@ -23,6 +23,8 @@ Features
 - It can Shutdown,SleepMode and Restart your Computer.
 - It can tell the time.
 - It can tell the weather.
+- It can open all the sites.
+- It can show you the sites list.
 
 Quickstart (generic)
 1. Clone the repo:
